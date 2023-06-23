@@ -3,6 +3,8 @@ tapnet/test.py
 data/test_data
 tapnet/checkpoints
 tapnet/_version.py
+examples
+notebooks
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
